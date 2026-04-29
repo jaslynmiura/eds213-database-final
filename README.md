@@ -1,6 +1,7 @@
 # Bison Herd Dynamics
 
 ### Purpose:
+This repository houses the SQL analysis of Bison Herd Dynamics. Data was first cleaned in an R-script.
 
 ### Repository Structure:
 ```
