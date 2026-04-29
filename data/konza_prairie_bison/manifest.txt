@@ -1,0 +1,7 @@
+Manifest file for knb-lter-knz.78.17.zip created on Wed Apr 08 21:03:20 UTC 2026
+CBH011.csv (12520 bytes)
+CBH012.csv (363025 bytes)
+CBH013.csv (41039 bytes)
+knb-lter-knz.78.17.xml (39594 bytes)
+knb-lter-knz.78.17.txt (21837 bytes)
+knb-lter-knz.78.17.report.xml (71643 bytes)

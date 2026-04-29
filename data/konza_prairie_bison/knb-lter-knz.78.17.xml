@@ -1,0 +1,837 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eml:eml packageId="knb-lter-knz.78.17"
+  system="https://pasta.edirepository.org"
+  xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0"
+  xmlns:stmml="http://www.xml-cml.org/schema/stmml-1.1"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://eml.ecoinformatics.org/eml-2.2.0/eml.xsd">
+   <access
+    authSystem="https://pasta.edirepository.org/authentication"
+    order="allowFirst" scope="document"
+      system="https://pasta.edirepository.org">
+      <allow>
+         <principal>uid=KNZ,o=LTER,dc=ecoinformatics,dc=org</principal>
+         <permission>all</permission>
+      </allow>
+      <allow>
+         <principal>public</principal>
+         <permission>read</permission>
+      </allow>
+   </access>
+   <dataset>
+      <alternateIdentifier
+        system="https://doi.org">doi:10.6073/pasta/c5c3f6e3df8a42980599a2ebba1abc84</alternateIdentifier><shortName>CBH01</shortName>
+      <title>CBH01 Konza Prairie bison herd information</title>
+      <creator>
+         <individualName>
+            <givenName>John</givenName>
+            <surName>Blair</surName>
+         </individualName>
+         <organizationName>Konza Prairie Long Term Ecological Research</organizationName>
+         <positionName>Investigator</positionName>
+         <address>
+            <deliveryPoint>116 Ackert Hall, Division of Biology, Kansas State University</deliveryPoint>
+            <city>Manhattan</city>
+            <administrativeArea>KS</administrativeArea>
+            <postalCode>66506</postalCode>
+            <country>US</country>
+         </address>
+         <phone
+        phonetype="voice">785-532-7065</phone>
+         <phone
+        phonetype="facsimile">785-532-6653</phone>
+         <electronicMailAddress>jblair@ksu.edu</electronicMailAddress>
+         <userId
+        directory="http://orcid.org">http://orcid.org/0000-0003-0072-0721</userId>
+         <userId
+        directory="https://ror.org/">https://ror.org/02wavzm11</userId>
+      </creator>
+      <metadataProvider>
+         <organizationName>Konza Prairie Long Term Ecological Research</organizationName>
+         <address>
+            <deliveryPoint>Division of Biology, Kansas State University</deliveryPoint>
+            <city>Manhattan</city>
+            <administrativeArea>KS</administrativeArea>
+            <postalCode>66506</postalCode>
+         </address>
+         <electronicMailAddress>knzlter@ksu.edu</electronicMailAddress>
+         <onlineUrl>http://lter.konza.ksu.edu</onlineUrl>
+         <userId
+      directory="https://ror.org/">https://ror.org/02wavzm11</userId>
+      </metadataProvider>
+      <pubDate>2026-01-09</pubDate>
+      <abstract>
+         <section>
+            <para>
+         The purpose of this study is to monitor long-term changes in individual animal mass. The datasets include an annual summary of the bison herd structure, end-of-season weights of individual animals, and maternal parentage of individual bison.
+        </para>
+         </section>
+      </abstract>
+      <keywordSet>
+         <keyword>Populations</keyword>
+         <keywordThesaurus>Core Areas</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+         <keyword>Consumers</keyword>
+         <keywordThesaurus>Section</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+         <keyword>Bison</keyword>
+         <keyword>Bison Herd</keyword>
+         <keyword>Consumers</keyword>
+         <keyword>Herbivores</keyword>
+         <keyword>Kansas</keyword>
+         <keyword>LTER-KNZ</keyword>
+         <keyword>Konza Prairie</keyword>
+         <keyword>Konza Prairie Biological Station</keyword>
+         <keyword>Mass</keyword>
+         <keyword>prairie</keyword>
+         <keyword>Weight</keyword>
+         <keywordThesaurus>Station Keywords</keywordThesaurus>
+      </keywordSet>
+      <intellectualRights>
+         <section>
+            <title>Data Policies</title>
+            <para>
+        Data Use Agreements: The Intellectual Rights within the metadata associated with each KNZ data set determines the exact data and metadata use agreement between the data user and the KNZ LTER site. KNZ LTER data and metadata may be released under the license: CC BY - Attribution (https://creativecommons.org/licenses/by/4.0/). This license lets others distribute, remix, tweak, and build upon KNZ work (even commercially), as long as the KNZ program is credited for the original creation. Alternatively, some KNZ LTER data and metadata may be released into the public domain: CC0 - No Rights Reserved (https://creativecommons.org/share-your-work/public-domain/cc0/). CC0 states that data are placed in the public domain, so that others may freely build upon, enhance and reuse the works for any purposes without restriction under copyright or database law. In either case, users of KNZ data are referred to the following guidelines: "The consumer of these data ("Data User" herein) has an ethical obligation to cite it appropriately in any publication that results from its use. The Data User should realize that these data may be actively used by others for ongoing research and that coordination may be necessary to prevent duplicate publication. The Data User is urged to contact the authors of these data if any questions about methodology or results occur. Where appropriate, the Data User is encouraged to consider collaboration or coauthorship with the authors. The Data User should realize that misinterpretation of data may occur if used out of context of the original study. While substantial efforts are made to ensure the accuracy of data and associated documentation, complete accuracy of data sets cannot be guaranteed. All data are made available "as is." The Data User should be aware, however, that data are updated periodically and it is the responsibility of the Data User to check for new versions of the data. The data authors and the repository where these data were obtained shall not be liable for damages resulting from any use or misinterpretation of the data. Thank you".
+        </para>
+         </section>
+      </intellectualRights>
+      <licensed>
+         <licenseName>Creative Commons Attribution 4.0 International Public License</licenseName>
+         <url>https://creativecommons.org/licenses/by/4.0/</url>
+         <identifier>CC-BY-4.0</identifier>
+      </licensed>
+      <distribution
+      id="10.6073/pasta/d8cd09d9f0c59a70cf64bab13699797a" scope="system"
+          system="https://pasta.edirepository.org">
+         <online>
+            <url
+      function="information">https://doi.org/10.6073/pasta/d8cd09d9f0c59a70cf64bab13699797a</url>
+         </online>
+      </distribution>
+      <distribution
+      id="10.6073/pasta/c5c3f6e3df8a42980599a2ebba1abc84" scope="system"
+          system="https://pasta.edirepository.org"><online><url
+        function="information">https://doi.org/10.6073/pasta/c5c3f6e3df8a42980599a2ebba1abc84</url></online></distribution><coverage>
+         <geographicCoverage>
+            <geographicDescription>HQB : Ungrazed and scheduled prescribed burned annually in the spring</geographicDescription>
+            <boundingCoordinates>
+               <westBoundingCoordinate>-96.6128</westBoundingCoordinate>
+               <eastBoundingCoordinate>-96.6076</eastBoundingCoordinate>
+               <northBoundingCoordinate>39.1066</northBoundingCoordinate>
+               <southBoundingCoordinate>39.101</southBoundingCoordinate>
+            </boundingCoordinates>
+         </geographicCoverage>
+         <temporalCoverage>
+            <rangeOfDates>
+               <beginDate>
+                  <calendarDate>1994-11-08</calendarDate>
+               </beginDate>
+               <endDate>
+                  <calendarDate>2025-12-31</calendarDate>
+               </endDate>
+            </rangeOfDates>
+         </temporalCoverage>
+      </coverage>
+      <maintenance>
+         <description>
+            <para>
+               <literalLayout>ongoing</literalLayout>
+            </para>
+         </description>
+         <maintenanceUpdateFrequency>asNeeded</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+         <individualName>
+            <givenName>Jeffrey</givenName>
+            <surName>Taylor</surName>
+         </individualName>
+         <address>
+            <deliveryPoint>Division of Biology, 116 Ackert Hall, Kansas State University</deliveryPoint>
+            <city>Manhattan</city>
+            <administrativeArea>KS</administrativeArea>
+            <postalCode>66506</postalCode>
+            <country>US</country>
+         </address>
+         <phone
+        phonetype="voice">785-532-6729</phone>
+         <electronicMailAddress>jht@ksu.edu</electronicMailAddress>
+      </contact>
+      <contact>
+         <organizationName>Konza Prairie Long Term Ecological Research</organizationName>
+         <address>
+            <deliveryPoint>Division of Biology, Kansas State University</deliveryPoint>
+            <city>Manhattan</city>
+            <administrativeArea>KS</administrativeArea>
+            <postalCode>66506</postalCode>
+         </address>
+         <electronicMailAddress>knzlter@ksu.edu</electronicMailAddress>
+         <onlineUrl>http://lter.konza.ksu.edu</onlineUrl>
+         <userId
+        directory="https://ror.org/">https://ror.org/02wavzm11</userId>
+      </contact>
+      <publisher>
+         <organizationName>Environmental Data Initiative</organizationName>
+         <electronicMailAddress>info@edirepository.org</electronicMailAddress>
+         <onlineUrl>https://edirepository.org</onlineUrl>
+         <userId
+          directory="https://ror.org">0330j0z60</userId>
+      </publisher>
+      <pubPlace>Environmental Data Initiative</pubPlace>
+      <methods>
+         <methodStep>
+            <description>
+               <section>
+                  <para>
+             Location of Sampling Stations: Bison corral in HQB. Frequency of Sampling: Weights are recorded and inventory taken each fall during the annual roundup. Variable Measured: Weight of each individual is recorded in pounds. 
+                
+            </para>
+                  <para>
+                Bison Management: The bison herd resides year-around in a 2433 acre fenced enclosure. Except during a few weeks preceding the annual roundup, the bison are allowed free access to all portions of the pasture. No regular supplemental feed is provided to the herd. Prairie hay is provided only when animals are corralled or during rare periods of deep snow cover. Roundup occurs annually in autumn. All animals are lured to the corral to be weighed and sorted. At this time the herd is culled to maintain a targeted herd size of 213AU. Cull animals are kept in the corral until sold. The remaining herd is released back to pasture. 
+                
+            </para>
+                  <para>
+                Methods: Upon arrival in the squeeze chute, each individual is restrained long enough to be identified, weighed, and worked. Each bison is equipped with an Allflex EID eartag. An EID reader sends the unique 15-digit EID number of each bison to the scale indicator. When the scale has stabilized and a valid weight is available, the scale operator pushes the "record" button on the indicator which sends the EID and weight to a laptop equipped with FileMaker Pro 13 software. Upon receiving input from the indicator, FileMaker records the weight of each bison. 
+                
+            </para>
+                  <para>
+                Form of Data Output: RECORD TYPE 1: Bison post-cull herd structure summary: raw data contain total number of male and female bison for each age class. RECORD TYPE 2: Bison full herd weight information: raw data contain the ear tag number, sex, and weight of each individual. RECORD TYPE 3: Bison maternal parentage: raw data contains the ear tag number of each calf and that of its mother. 
+            </para>
+                  <para>
+                
+                Summary of All Changes: Prior to 2013 bison were weighed on a Central City Scale Inc. livestock scale and weights were recorded in 2lb. increments, except for 2010 where 5lb. increments were used. In 2013 a Berlinic Mfg. Inc. hydraulic bison chute equipped with a TruTest XHS2 load cell system was installed, and weights were red on a TruText EziWeigh5 scale indicator. Weights recorded on the TruTest system are in 5lb, increments. 
+            </para>
+                  <para> 
+                Beginning in 2015, a TruTest EziWeigh7 scale indicator connected to a laptop equipped with FileMaker Pro 13 software has been used to electronically record bison weights. Prior to this weights were called out by the scale operator and handwritten by an assistant. 2013 CBH012 data is available by request only. 
+            </para>
+                  <para>
+                Quality Assurance: Scale is calibrated and certified by WH Scale Co. annually before roundup. 
+            </para>
+                  <para> 
+                Instrumentation: Berlinic Manufacturing Inc. Hydraulic Squeeze Chute equipped with TruTest XHD2 load cell system and TruText EziWeigh7 Scale Indicator, TruTest XRP2 EID reader and TruTest large EID antenna, FileMaker Pro 13 software. 
+            </para>
+               </section>
+            </description>
+         </methodStep>
+      </methods>
+      <project>
+         <title>Manipulating drivers to assess grassland resilience</title>
+         <personnel>
+            <individualName>
+               <givenName>Jesse</givenName>
+               <surName>Nippert</surName>
+            </individualName>
+            <electronicMailAddress>nippert@ksu.edu</electronicMailAddress>
+            <userId
+      directory="https://orcid.org">0000-0002-7939-342X</userId>
+            <role>Principal Investigator</role>
+         </personnel>
+         <award>
+            <funderName>National Science Foundation (NSF)</funderName>
+            <funderIdentifier>https://ror.org/021nxhr62</funderIdentifier>
+            <awardNumber>2025849</awardNumber>
+            <title>LTER: Manipulating drivers to assess grassland resilience</title>
+            <awardUrl>https://www.nsf.gov/awardsearch/showAward?AWD_ID=2025849</awardUrl>
+         </award>
+         <relatedProject>
+            <title>LTER: Long-Term Research on Grassland Dynamics- Assessing Mechanisms of Sensitivity and Resilience to Global Change</title>
+            <personnel>
+               <individualName>
+                  <givenName>Jesse</givenName>
+                  <surName>Nippert</surName>
+               </individualName>
+               <role>Principal Investigator</role>
+            </personnel>
+            <personnel>
+               <individualName>
+                  <givenName>John</givenName>
+                  <surName>Blair</surName>
+               </individualName>
+               <role>Principal Investigator</role>
+            </personnel>
+            <funding>1440484</funding>
+         </relatedProject>
+         <relatedProject>
+            <title>Konza Prairie LTER VI: Grassland Dynamics and Long-Term Trajectories of Change</title>
+            <personnel>
+               <individualName>
+                  <givenName>John</givenName>
+                  <surName>Blair</surName>
+               </individualName>
+               <role>Principal Investigator</role>
+            </personnel>
+            <funding>0823341</funding>
+         </relatedProject>
+         <relatedProject>
+            <title>Konza Prairie LTER V: Long-Term Research on Grassland Dynamics and Global Change</title>
+            <personnel>
+               <individualName>
+                  <givenName>John</givenName>
+                  <surName>Blair</surName>
+               </individualName>
+               <role>Principal Investigator</role>
+            </personnel>
+            <funding>0218210</funding>
+         </relatedProject>
+         <relatedProject>
+            <title>Long-Term Ecological Research in Tallgrass Prairie: The Konza Prairie LTER Program</title>
+            <personnel>
+               <individualName>
+                  <givenName>Alan</givenName>
+                  <surName>Knapp</surName>
+               </individualName>
+               <role>Principal Investigator</role>
+            </personnel>
+            <funding>9632851</funding>
+         </relatedProject>
+         <relatedProject>
+            <title>Fire, Grazing, and Climatic Interactions in Tallgrass Prairie</title>
+            <personnel>
+               <individualName>
+                  <givenName>Alan</givenName>
+                  <surName>Knapp</surName>
+               </individualName>
+               <role>Principal Investigator</role>
+            </personnel>
+            <funding>9011662</funding>
+         </relatedProject>
+         <relatedProject>
+            <title>The Role of Fire and Other Disturbances in Determining Ecosystem Processes and Patterns in the Konza Prairie, Kansas</title>
+            <personnel>
+               <individualName>
+                  <givenName>Donald</givenName>
+                  <surName>Kaufman</surName>
+               </individualName>
+               <role>Principal Investigator</role>
+            </personnel>
+            <funding>8514327</funding>
+         </relatedProject>
+         <relatedProject>
+            <title>Long-Term Ecological Research in Tallgrass Prairie</title>
+            <personnel>
+               <individualName>
+                  <givenName>Richard</givenName>
+                  <surName>Marzolf</surName>
+               </individualName>
+               <role>Principal Investigator</role>
+            </personnel>
+            <funding>8012166</funding>
+         </relatedProject>
+      </project>
+      <dataTable
+      id="ce01c6b5d58f90ba73d2c6e6d63612f3" scope="document"
+          system="https://pasta.edirepository.org">
+         <entityName>CBH011</entityName>
+         <entityDescription>This recordtype contains the number of male and female bison per age category</entityDescription>
+         <physical>
+            <objectName>CBH011.csv</objectName>
+            <size>12520</size>
+            <authentication
+          method="MD5">25e1015365e12d0ce785f6dc33126b25</authentication>
+            <authentication
+              method="SHA-1">a591ad14277d4d888bfd168b6c0021b1390ec64e</authentication>
+            <dataFormat>
+               <textFormat>
+                  <numHeaderLines>1</numHeaderLines>
+                  <recordDelimiter>\r\n</recordDelimiter>
+                  <attributeOrientation>column</attributeOrientation>
+                  <simpleDelimited>
+                     <fieldDelimiter>,</fieldDelimiter>
+                     <quoteCharacter>"</quoteCharacter>
+                  </simpleDelimited>
+               </textFormat>
+            </dataFormat>
+            <distribution>
+               <online>
+                  <url
+          function="download">https://pasta.lternet.edu/package/data/eml/knb-lter-knz/78/17/ce01c6b5d58f90ba73d2c6e6d63612f3</url>
+               </online>
+            </distribution>
+         </physical>
+         <attributeList>
+            <attribute
+          id="DataCode-1">
+               <attributeName>DataCode</attributeName>
+               <attributeLabel>DataCode</attributeLabel>
+               <attributeDefinition>Dataset code</attributeDefinition>
+               <storageType>string</storageType>
+               <measurementScale>
+                  <nominal>
+                     <nonNumericDomain>
+                        <textDomain>
+                           <definition>Dataset code</definition>
+                        </textDomain>
+                     </nonNumericDomain>
+                  </nominal>
+               </measurementScale>
+            </attribute>
+            <attribute
+          id="RecType-2">
+               <attributeName>RecType</attributeName>
+               <attributeLabel>RecType</attributeLabel>
+               <attributeDefinition>dataset record type</attributeDefinition>
+               <storageType>string</storageType>
+               <measurementScale>
+                  <nominal>
+                     <nonNumericDomain>
+                        <textDomain>
+                           <definition>dataset record type</definition>
+                        </textDomain>
+                     </nonNumericDomain>
+                  </nominal>
+               </measurementScale>
+            </attribute>
+            <attribute
+          id="RecYear-3">
+               <attributeName>RecYear</attributeName>
+               <attributeLabel>RecYear</attributeLabel>
+               <attributeDefinition>Year of record</attributeDefinition>
+               <measurementScale>
+                  <ratio>
+                     <unit>
+                        <customUnit>Year (YYYY)</customUnit>
+                     </unit>
+                     <numericDomain>
+                        <numberType>real</numberType>
+                     </numericDomain>
+                  </ratio>
+               </measurementScale>
+            </attribute>
+            <attribute
+              id="BirthYear-4">
+               <attributeName>BirthYear</attributeName>
+               <attributeLabel>BirthYear</attributeLabel>
+               <attributeDefinition>Year of bison birth</attributeDefinition>
+               <measurementScale>
+                  <ratio>
+                     <unit>
+                        <standardUnit>number</standardUnit>
+                     </unit>
+                     <numericDomain>
+                        <numberType>real</numberType>
+                     </numericDomain>
+                  </ratio>
+               </measurementScale>
+               <missingValueCode>
+                  <code>blank</code>
+                  <codeExplanation>Missing or Not Measured</codeExplanation>
+               </missingValueCode>
+               <annotation>
+                  <propertyURI
+              label="has unit">http://qudt.org/schema/qudt/hasUnit</propertyURI>
+                  <valueURI
+          label="Number">http://qudt.org/vocab/unit/NUM</valueURI>
+               </annotation>
+            </attribute>
+            <attribute
+              id="Age-5">
+               <attributeName>Age</attributeName>
+               <attributeLabel>Age</attributeLabel>
+               <attributeDefinition>Bison age</attributeDefinition>
+               <measurementScale>
+                  <ratio>
+                     <unit>
+                        <standardUnit>number</standardUnit>
+                     </unit>
+                     <precision>0.1</precision>
+                     <numericDomain>
+                        <numberType>real</numberType>
+                     </numericDomain>
+                  </ratio>
+               </measurementScale>
+               <missingValueCode>
+                  <code>blank</code>
+                  <codeExplanation>Missing or Not Measured</codeExplanation>
+               </missingValueCode>
+               <annotation>
+                  <propertyURI
+              label="has unit">http://qudt.org/schema/qudt/hasUnit</propertyURI>
+                  <valueURI
+          label="Number">http://qudt.org/vocab/unit/NUM</valueURI>
+               </annotation>
+            </attribute>
+            <attribute
+              id="NumofFemale-6">
+               <attributeName>NumofFemale</attributeName>
+               <attributeLabel>NumofFemale</attributeLabel>
+               <attributeDefinition>Number of female bison</attributeDefinition>
+               <measurementScale>
+                  <ratio>
+                     <unit>
+                        <standardUnit>number</standardUnit>
+                     </unit>
+                     <numericDomain>
+                        <numberType>real</numberType>
+                     </numericDomain>
+                  </ratio>
+               </measurementScale>
+               <annotation>
+                  <propertyURI
+              label="has unit">http://qudt.org/schema/qudt/hasUnit</propertyURI>
+                  <valueURI
+          label="Number">http://qudt.org/vocab/unit/NUM</valueURI>
+               </annotation>
+            </attribute>
+            <attribute
+              id="NumofMale-7">
+               <attributeName>NumofMale</attributeName>
+               <attributeLabel>NumofMale</attributeLabel>
+               <attributeDefinition>Number of male bison</attributeDefinition>
+               <measurementScale>
+                  <ratio>
+                     <unit>
+                        <standardUnit>number</standardUnit>
+                     </unit>
+                     <numericDomain>
+                        <numberType>real</numberType>
+                     </numericDomain>
+                  </ratio>
+               </measurementScale>
+               <annotation>
+                  <propertyURI
+              label="has unit">http://qudt.org/schema/qudt/hasUnit</propertyURI>
+                  <valueURI
+      label="Number">http://qudt.org/vocab/unit/NUM</valueURI>
+               </annotation>
+            </attribute>
+         </attributeList>
+         <numberOfRecords>483</numberOfRecords>
+      </dataTable>
+      <dataTable
+      id="0921d9c31d67badeb940f7352886134e" scope="document"
+          system="https://pasta.edirepository.org">
+         <entityName>CBH012</entityName>
+         <entityDescription>This recordtype contains historical bison weight information for individual animals</entityDescription>
+         <physical>
+            <objectName>CBH012.csv</objectName>
+            <size>363025</size>
+            <authentication
+          method="MD5">a5681ea4dfc66bf3359be89a353a55c2</authentication>
+            <authentication
+              method="SHA-1">506e5b6bdf0ef84dca65431d51f2cb399fc0d2fd</authentication>
+            <dataFormat>
+               <textFormat>
+                  <numHeaderLines>1</numHeaderLines>
+                  <recordDelimiter>\r\n</recordDelimiter>
+                  <attributeOrientation>column</attributeOrientation>
+                  <simpleDelimited>
+                     <fieldDelimiter>,</fieldDelimiter>
+                     <quoteCharacter>"</quoteCharacter>
+                  </simpleDelimited>
+               </textFormat>
+            </dataFormat>
+            <distribution>
+               <online>
+                  <url
+          function="download">https://pasta.lternet.edu/package/data/eml/knb-lter-knz/78/17/0921d9c31d67badeb940f7352886134e</url>
+               </online>
+            </distribution>
+         </physical>
+         <attributeList>
+            <attribute
+          id="DataCode-8">
+               <attributeName>DataCode</attributeName>
+               <attributeLabel>DataCode</attributeLabel>
+               <attributeDefinition>Dataset code</attributeDefinition>
+               <storageType>string</storageType>
+               <measurementScale>
+                  <nominal>
+                     <nonNumericDomain>
+                        <textDomain>
+                           <definition>Dataset code</definition>
+                        </textDomain>
+                     </nonNumericDomain>
+                  </nominal>
+               </measurementScale>
+            </attribute>
+            <attribute
+          id="RecType-9">
+               <attributeName>RecType</attributeName>
+               <attributeLabel>RecType</attributeLabel>
+               <attributeDefinition>dataset record type</attributeDefinition>
+               <storageType>string</storageType>
+               <measurementScale>
+                  <nominal>
+                     <nonNumericDomain>
+                        <textDomain>
+                           <definition>dataset record type</definition>
+                        </textDomain>
+                     </nonNumericDomain>
+                  </nominal>
+               </measurementScale>
+            </attribute>
+            <attribute
+          id="RecYear-10">
+               <attributeName>RecYear</attributeName>
+               <attributeLabel>RecYear</attributeLabel>
+               <attributeDefinition>Year of observation</attributeDefinition>
+               <measurementScale>
+                  <ratio>
+                     <unit>
+                        <customUnit>Year (YYYY)</customUnit>
+                     </unit>
+                     <numericDomain>
+                        <numberType>real</numberType>
+                     </numericDomain>
+                  </ratio>
+               </measurementScale>
+            </attribute>
+            <attribute
+              id="RecMonth-11">
+               <attributeName>RecMonth</attributeName>
+               <attributeLabel>RecMonth</attributeLabel>
+               <attributeDefinition>Month of record</attributeDefinition>
+               <measurementScale>
+                  <ratio>
+                     <unit>
+                        <standardUnit>dimensionless</standardUnit>
+                     </unit>
+                     <numericDomain>
+                        <numberType>real</numberType>
+                     </numericDomain>
+                  </ratio>
+               </measurementScale>
+               <annotation>
+                  <propertyURI
+              label="has unit">http://qudt.org/schema/qudt/hasUnit</propertyURI>
+                  <valueURI
+          label="Unitless">http://qudt.org/vocab/unit/UNITLESS</valueURI>
+               </annotation>
+            </attribute>
+            <attribute
+              id="RecDay-12">
+               <attributeName>RecDay</attributeName>
+               <attributeLabel>RecDay</attributeLabel>
+               <attributeDefinition>Day of record</attributeDefinition>
+               <measurementScale>
+                  <ratio>
+                     <unit>
+                        <standardUnit>dimensionless</standardUnit>
+                     </unit>
+                     <numericDomain>
+                        <numberType>real</numberType>
+                     </numericDomain>
+                  </ratio>
+               </measurementScale>
+               <annotation>
+                  <propertyURI
+              label="has unit">http://qudt.org/schema/qudt/hasUnit</propertyURI>
+                  <valueURI
+          label="Unitless">http://qudt.org/vocab/unit/UNITLESS</valueURI>
+               </annotation>
+            </attribute>
+            <attribute
+          id="AnimalCode-13">
+               <attributeName>AnimalCode</attributeName>
+               <attributeLabel>AnimalCode</attributeLabel>
+               <attributeDefinition>Unique individual identification code (ear tag number for each of the animals)</attributeDefinition>
+               <storageType>string</storageType>
+               <measurementScale>
+                  <nominal>
+                     <nonNumericDomain>
+                        <textDomain>
+                           <definition>Unique individual identification code (ear tag number for each of the animals)</definition>
+                        </textDomain>
+                     </nonNumericDomain>
+                  </nominal>
+               </measurementScale>
+            </attribute>
+            <attribute
+          id="AnimalSex-14">
+               <attributeName>AnimalSex</attributeName>
+               <attributeLabel>AnimalSex</attributeLabel>
+               <attributeDefinition>Sex of bison m-male f-female u-unknown</attributeDefinition>
+               <storageType>string</storageType>
+               <measurementScale>
+                  <nominal>
+                     <nonNumericDomain>
+                        <textDomain>
+                           <definition>Sex of bison m-male f-female u-unknown</definition>
+                        </textDomain>
+                     </nonNumericDomain>
+                  </nominal>
+               </measurementScale>
+            </attribute>
+            <attribute
+              id="AnimalWeight-15">
+               <attributeName>AnimalWeight</attributeName>
+               <attributeLabel>AnimalWeight</attributeLabel>
+               <attributeDefinition>Individual end-of-season weight for each bison</attributeDefinition>
+               <measurementScale>
+                  <ratio>
+                     <unit>
+                        <standardUnit>pound</standardUnit>
+                     </unit>
+                     <precision>1</precision>
+                     <numericDomain>
+                        <numberType>real</numberType>
+                     </numericDomain>
+                  </ratio>
+               </measurementScale>
+               <missingValueCode>
+                  <code>.</code>
+                  <codeExplanation>Missing</codeExplanation>
+               </missingValueCode>
+               <annotation>
+                  <propertyURI
+              label="has unit">http://qudt.org/schema/qudt/hasUnit</propertyURI>
+                  <valueURI
+          label="Pound Mass">http://qudt.org/vocab/unit/LB</valueURI>
+               </annotation>
+            </attribute>
+            <attribute
+              id="AnimalYOB-16">
+               <attributeName>AnimalYOB</attributeName>
+               <attributeLabel>AnimalYOB</attributeLabel>
+               <attributeDefinition>Year of animal was born</attributeDefinition>
+               <measurementScale>
+                  <ratio>
+                     <unit>
+                        <standardUnit>number</standardUnit>
+                     </unit>
+                     <numericDomain>
+                        <numberType>real</numberType>
+                     </numericDomain>
+                  </ratio>
+               </measurementScale>
+               <missingValueCode>
+                  <code>blank</code>
+                  <codeExplanation>Missing or Not Measured</codeExplanation>
+               </missingValueCode>
+               <annotation>
+                  <propertyURI
+              label="has unit">http://qudt.org/schema/qudt/hasUnit</propertyURI>
+                  <valueURI
+      label="Number">http://qudt.org/vocab/unit/NUM</valueURI>
+               </annotation>
+            </attribute>
+         </attributeList>
+         <numberOfRecords>9830</numberOfRecords>
+      </dataTable>
+      <dataTable
+      id="fd47457cbac3fbb7d394a245835dbe80" scope="document"
+          system="https://pasta.edirepository.org">
+         <entityName>CBH013</entityName>
+         <entityDescription>Bison maternal parentage: raw data contains the ear tag number of each calf and that of its mother.</entityDescription>
+         <physical>
+            <objectName>CBH013.csv</objectName>
+            <size>41039</size>
+            <authentication
+          method="MD5">98c73235523d3b39491489cb5377973d</authentication>
+            <authentication
+              method="SHA-1">bebb85a663db661b6effec08a881786e0d3f01ea</authentication>
+            <dataFormat>
+               <textFormat>
+                  <numHeaderLines>1</numHeaderLines>
+                  <recordDelimiter>\r\n</recordDelimiter>
+                  <attributeOrientation>column</attributeOrientation>
+                  <simpleDelimited>
+                     <fieldDelimiter>,</fieldDelimiter>
+                     <quoteCharacter>"</quoteCharacter>
+                  </simpleDelimited>
+               </textFormat>
+            </dataFormat>
+            <distribution>
+               <online>
+                  <url
+          function="download">https://pasta.lternet.edu/package/data/eml/knb-lter-knz/78/17/fd47457cbac3fbb7d394a245835dbe80</url>
+               </online>
+            </distribution>
+         </physical>
+         <attributeList>
+            <attribute
+          id="DataCode-17">
+               <attributeName>DataCode</attributeName>
+               <attributeLabel>DataCode</attributeLabel>
+               <attributeDefinition>Dataset code</attributeDefinition>
+               <storageType>string</storageType>
+               <measurementScale>
+                  <nominal>
+                     <nonNumericDomain>
+                        <textDomain>
+                           <definition>Dataset code</definition>
+                        </textDomain>
+                     </nonNumericDomain>
+                  </nominal>
+               </measurementScale>
+            </attribute>
+            <attribute
+          id="RecType-18">
+               <attributeName>RecType</attributeName>
+               <attributeLabel>RecType</attributeLabel>
+               <attributeDefinition>dataset record type</attributeDefinition>
+               <storageType>string</storageType>
+               <measurementScale>
+                  <nominal>
+                     <nonNumericDomain>
+                        <textDomain>
+                           <definition>dataset record type</definition>
+                        </textDomain>
+                     </nonNumericDomain>
+                  </nominal>
+               </measurementScale>
+            </attribute>
+            <attribute
+          id="RecYear-19">
+               <attributeName>RecYear</attributeName>
+               <attributeLabel>RecYear</attributeLabel>
+               <attributeDefinition>Year of observation</attributeDefinition>
+               <measurementScale>
+                  <ratio>
+                     <unit>
+                        <customUnit>Year (YYYY)</customUnit>
+                     </unit>
+                     <numericDomain>
+                        <numberType>real</numberType>
+                     </numericDomain>
+                  </ratio>
+               </measurementScale>
+            </attribute>
+            <attribute
+          id="CalfTag-20">
+               <attributeName>CalfTag</attributeName>
+               <attributeLabel>CalfTag</attributeLabel>
+               <attributeDefinition>Unique individual identification code (ear tag number for each of calf)</attributeDefinition>
+               <storageType>string</storageType>
+               <measurementScale>
+                  <nominal>
+                     <nonNumericDomain>
+                        <textDomain>
+                           <definition>Unique individual identification code (ear tag number for each of calf)</definition>
+                        </textDomain>
+                     </nonNumericDomain>
+                  </nominal>
+               </measurementScale>
+            </attribute>
+            <attribute
+        id="DamTag-21">
+               <attributeName>DamTag</attributeName>
+               <attributeLabel>DamTag</attributeLabel>
+               <attributeDefinition>Unique individual identification code (ear tag number for each of calf's mother)</attributeDefinition>
+               <storageType>string</storageType>
+               <measurementScale>
+                  <nominal>
+                     <nonNumericDomain>
+                        <textDomain>
+                           <definition>Unique individual identification code (ear tag number for each of calf's mother)</definition>
+                        </textDomain>
+                     </nonNumericDomain>
+                  </nominal>
+               </measurementScale>
+            </attribute>
+         </attributeList>
+         <numberOfRecords>1576</numberOfRecords>
+      </dataTable>
+   </dataset>
+   <additionalMetadata>
+      <metadata>
+         <stmml:unitList
+          xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://eml.ecoinformatics.org/eml-2.2.0/eml.xsd">
+            <stmml:unit id="Year (YYYY)">
+               <stmml:description/>
+            </stmml:unit>
+         </stmml:unitList>
+      </metadata>
+   </additionalMetadata>
+</eml:eml>

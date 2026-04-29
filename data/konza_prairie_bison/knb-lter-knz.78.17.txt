@@ -1,0 +1,707 @@
+
+   
+      
+         uid=KNZ,o=LTER,dc=ecoinformatics,dc=org
+         all
+      
+      
+         public
+         read
+      
+   
+   
+      doi:10.6073/pasta/c5c3f6e3df8a42980599a2ebba1abc84CBH01
+      CBH01 Konza Prairie bison herd information
+      
+         John Blair
+         Konza Prairie Long Term Ecological Research
+         Investigator
+         			116 Ackert Hall, Division of Biology, Kansas State University
+			Manhattan, KS 66506  US
+         785-532-7065
+         785-532-6653
+         jblair@ksu.edu
+         http://orcid.org/0000-0003-0072-0721
+         https://ror.org/02wavzm11
+      
+      
+         Konza Prairie Long Term Ecological Research
+         			Division of Biology, Kansas State University
+			Manhattan, KS 66506  
+         knzlter@ksu.edu
+         http://lter.konza.ksu.edu
+         https://ror.org/02wavzm11
+      
+      2026-01-09
+      
+         
+            
+         The purpose of this study is to monitor long-term changes in individual animal mass. The datasets include an annual summary of the bison herd structure, end-of-season weights of individual animals, and maternal parentage of individual bison.
+        
+         
+      
+      
+         Populations
+         Core Areas
+      
+      
+         Consumers
+         Section
+      
+      
+         Bison
+         Bison Herd
+         Consumers
+         Herbivores
+         Kansas
+         LTER-KNZ
+         Konza Prairie
+         Konza Prairie Biological Station
+         Mass
+         prairie
+         Weight
+         Station Keywords
+      
+      
+         
+            Data Policies
+            
+        Data Use Agreements: The Intellectual Rights within the metadata associated with each KNZ data set determines the exact data and metadata use agreement between the data user and the KNZ LTER site. KNZ LTER data and metadata may be released under the license: CC BY - Attribution (https://creativecommons.org/licenses/by/4.0/). This license lets others distribute, remix, tweak, and build upon KNZ work (even commercially), as long as the KNZ program is credited for the original creation. Alternatively, some KNZ LTER data and metadata may be released into the public domain: CC0 - No Rights Reserved (https://creativecommons.org/share-your-work/public-domain/cc0/). CC0 states that data are placed in the public domain, so that others may freely build upon, enhance and reuse the works for any purposes without restriction under copyright or database law. In either case, users of KNZ data are referred to the following guidelines: "The consumer of these data ("Data User" herein) has an ethical obligation to cite it appropriately in any publication that results from its use. The Data User should realize that these data may be actively used by others for ongoing research and that coordination may be necessary to prevent duplicate publication. The Data User is urged to contact the authors of these data if any questions about methodology or results occur. Where appropriate, the Data User is encouraged to consider collaboration or coauthorship with the authors. The Data User should realize that misinterpretation of data may occur if used out of context of the original study. While substantial efforts are made to ensure the accuracy of data and associated documentation, complete accuracy of data sets cannot be guaranteed. All data are made available "as is." The Data User should be aware, however, that data are updated periodically and it is the responsibility of the Data User to check for new versions of the data. The data authors and the repository where these data were obtained shall not be liable for damages resulting from any use or misinterpretation of the data. Thank you".
+        
+         
+      
+      
+         Creative Commons Attribution 4.0 International Public License
+         https://creativecommons.org/licenses/by/4.0/
+         CC-BY-4.0
+      
+      
+         
+            https://doi.org/10.6073/pasta/d8cd09d9f0c59a70cf64bab13699797a
+         
+      
+      https://doi.org/10.6073/pasta/c5c3f6e3df8a42980599a2ebba1abc84
+         
+            HQB : Ungrazed and scheduled prescribed burned annually in the spring
+            
+               -96.6128
+               -96.6076
+               39.1066
+               39.101
+            
+         
+         
+            
+               
+                  1994-11-08
+               
+               
+                  2025-12-31
+               
+            
+         
+      
+      
+         
+            
+               ongoing
+            
+         
+         asNeeded
+      
+      
+         Jeffrey Taylor
+         			Division of Biology, 116 Ackert Hall, Kansas State University
+			Manhattan, KS 66506  US
+         785-532-6729
+         jht@ksu.edu
+      
+      
+         Konza Prairie Long Term Ecological Research
+         			Division of Biology, Kansas State University
+			Manhattan, KS 66506  
+         knzlter@ksu.edu
+         http://lter.konza.ksu.edu
+         https://ror.org/02wavzm11
+      
+      
+         Environmental Data Initiative
+         info@edirepository.org
+         https://edirepository.org
+         0330j0z60
+      
+      Environmental Data Initiative
+      
+         
+            
+               
+                  
+             Location of Sampling Stations: Bison corral in HQB. Frequency of Sampling: Weights are recorded and inventory taken each fall during the annual roundup. Variable Measured: Weight of each individual is recorded in pounds. 
+                
+            
+                  
+                Bison Management: The bison herd resides year-around in a 2433 acre fenced enclosure. Except during a few weeks preceding the annual roundup, the bison are allowed free access to all portions of the pasture. No regular supplemental feed is provided to the herd. Prairie hay is provided only when animals are corralled or during rare periods of deep snow cover. Roundup occurs annually in autumn. All animals are lured to the corral to be weighed and sorted. At this time the herd is culled to maintain a targeted herd size of 213AU. Cull animals are kept in the corral until sold. The remaining herd is released back to pasture. 
+                
+            
+                  
+                Methods: Upon arrival in the squeeze chute, each individual is restrained long enough to be identified, weighed, and worked. Each bison is equipped with an Allflex EID eartag. An EID reader sends the unique 15-digit EID number of each bison to the scale indicator. When the scale has stabilized and a valid weight is available, the scale operator pushes the "record" button on the indicator which sends the EID and weight to a laptop equipped with FileMaker Pro 13 software. Upon receiving input from the indicator, FileMaker records the weight of each bison. 
+                
+            
+                  
+                Form of Data Output: RECORD TYPE 1: Bison post-cull herd structure summary: raw data contain total number of male and female bison for each age class. RECORD TYPE 2: Bison full herd weight information: raw data contain the ear tag number, sex, and weight of each individual. RECORD TYPE 3: Bison maternal parentage: raw data contains the ear tag number of each calf and that of its mother. 
+            
+                  
+                
+                Summary of All Changes: Prior to 2013 bison were weighed on a Central City Scale Inc. livestock scale and weights were recorded in 2lb. increments, except for 2010 where 5lb. increments were used. In 2013 a Berlinic Mfg. Inc. hydraulic bison chute equipped with a TruTest XHS2 load cell system was installed, and weights were red on a TruText EziWeigh5 scale indicator. Weights recorded on the TruTest system are in 5lb, increments. 
+            
+                   
+                Beginning in 2015, a TruTest EziWeigh7 scale indicator connected to a laptop equipped with FileMaker Pro 13 software has been used to electronically record bison weights. Prior to this weights were called out by the scale operator and handwritten by an assistant. 2013 CBH012 data is available by request only. 
+            
+                  
+                Quality Assurance: Scale is calibrated and certified by WH Scale Co. annually before roundup. 
+            
+                   
+                Instrumentation: Berlinic Manufacturing Inc. Hydraulic Squeeze Chute equipped with TruTest XHD2 load cell system and TruText EziWeigh7 Scale Indicator, TruTest XRP2 EID reader and TruTest large EID antenna, FileMaker Pro 13 software. 
+            
+               
+            
+         
+      
+      
+         Manipulating drivers to assess grassland resilience
+         
+            Jesse Nippert
+            nippert@ksu.edu
+            0000-0002-7939-342X
+            Principal Investigator
+         
+         
+            National Science Foundation (NSF)
+            https://ror.org/021nxhr62
+            2025849
+            LTER: Manipulating drivers to assess grassland resilience
+            https://www.nsf.gov/awardsearch/showAward?AWD_ID=2025849
+         
+         
+            LTER: Long-Term Research on Grassland Dynamics- Assessing Mechanisms of Sensitivity and Resilience to Global Change
+            
+               Jesse Nippert
+               Principal Investigator
+            
+            
+               John Blair
+               Principal Investigator
+            
+            1440484
+         
+         
+            Konza Prairie LTER VI: Grassland Dynamics and Long-Term Trajectories of Change
+            
+               John Blair
+               Principal Investigator
+            
+            0823341
+         
+         
+            Konza Prairie LTER V: Long-Term Research on Grassland Dynamics and Global Change
+            
+               John Blair
+               Principal Investigator
+            
+            0218210
+         
+         
+            Long-Term Ecological Research in Tallgrass Prairie: The Konza Prairie LTER Program
+            
+               Alan Knapp
+               Principal Investigator
+            
+            9632851
+         
+         
+            Fire, Grazing, and Climatic Interactions in Tallgrass Prairie
+            
+               Alan Knapp
+               Principal Investigator
+            
+            9011662
+         
+         
+            The Role of Fire and Other Disturbances in Determining Ecosystem Processes and Patterns in the Konza Prairie, Kansas
+            
+               Donald Kaufman
+               Principal Investigator
+            
+            8514327
+         
+         
+            Long-Term Ecological Research in Tallgrass Prairie
+            
+               Richard Marzolf
+               Principal Investigator
+            
+            8012166
+         
+      
+      
+         CBH011
+         This recordtype contains the number of male and female bison per age category
+         
+            CBH011.csv
+            12520
+            25e1015365e12d0ce785f6dc33126b25
+            a591ad14277d4d888bfd168b6c0021b1390ec64e
+            
+               
+                  1
+                  \r\n
+                  column
+                  
+                     ,
+                     "
+                  
+               
+            
+            
+               
+                  https://pasta.lternet.edu/package/data/eml/knb-lter-knz/78/17/ce01c6b5d58f90ba73d2c6e6d63612f3
+               
+            
+         
+         
+            
+               DataCode
+               DataCode
+               Dataset code
+               string
+               
+                  
+                     
+                        
+                           Dataset code
+                        
+                     
+                  
+               
+            
+            
+               RecType
+               RecType
+               dataset record type
+               string
+               
+                  
+                     
+                        
+                           dataset record type
+                        
+                     
+                  
+               
+            
+            
+               RecYear
+               RecYear
+               Year of record
+               
+                  
+                     
+                        Year (YYYY)
+                     
+                     
+                        real
+                     
+                  
+               
+            
+            
+               BirthYear
+               BirthYear
+               Year of bison birth
+               
+                  
+                     
+                        number
+                     
+                     
+                        real
+                     
+                  
+               
+               
+                  blank
+                  Missing or Not Measured
+               
+               
+                  http://qudt.org/schema/qudt/hasUnit
+                  http://qudt.org/vocab/unit/NUM
+               
+            
+            
+               Age
+               Age
+               Bison age
+               
+                  
+                     
+                        number
+                     
+                     0.1
+                     
+                        real
+                     
+                  
+               
+               
+                  blank
+                  Missing or Not Measured
+               
+               
+                  http://qudt.org/schema/qudt/hasUnit
+                  http://qudt.org/vocab/unit/NUM
+               
+            
+            
+               NumofFemale
+               NumofFemale
+               Number of female bison
+               
+                  
+                     
+                        number
+                     
+                     
+                        real
+                     
+                  
+               
+               
+                  http://qudt.org/schema/qudt/hasUnit
+                  http://qudt.org/vocab/unit/NUM
+               
+            
+            
+               NumofMale
+               NumofMale
+               Number of male bison
+               
+                  
+                     
+                        number
+                     
+                     
+                        real
+                     
+                  
+               
+               
+                  http://qudt.org/schema/qudt/hasUnit
+                  http://qudt.org/vocab/unit/NUM
+               
+            
+         
+         483
+      
+      
+         CBH012
+         This recordtype contains historical bison weight information for individual animals
+         
+            CBH012.csv
+            363025
+            a5681ea4dfc66bf3359be89a353a55c2
+            506e5b6bdf0ef84dca65431d51f2cb399fc0d2fd
+            
+               
+                  1
+                  \r\n
+                  column
+                  
+                     ,
+                     "
+                  
+               
+            
+            
+               
+                  https://pasta.lternet.edu/package/data/eml/knb-lter-knz/78/17/0921d9c31d67badeb940f7352886134e
+               
+            
+         
+         
+            
+               DataCode
+               DataCode
+               Dataset code
+               string
+               
+                  
+                     
+                        
+                           Dataset code
+                        
+                     
+                  
+               
+            
+            
+               RecType
+               RecType
+               dataset record type
+               string
+               
+                  
+                     
+                        
+                           dataset record type
+                        
+                     
+                  
+               
+            
+            
+               RecYear
+               RecYear
+               Year of observation
+               
+                  
+                     
+                        Year (YYYY)
+                     
+                     
+                        real
+                     
+                  
+               
+            
+            
+               RecMonth
+               RecMonth
+               Month of record
+               
+                  
+                     
+                        dimensionless
+                     
+                     
+                        real
+                     
+                  
+               
+               
+                  http://qudt.org/schema/qudt/hasUnit
+                  http://qudt.org/vocab/unit/UNITLESS
+               
+            
+            
+               RecDay
+               RecDay
+               Day of record
+               
+                  
+                     
+                        dimensionless
+                     
+                     
+                        real
+                     
+                  
+               
+               
+                  http://qudt.org/schema/qudt/hasUnit
+                  http://qudt.org/vocab/unit/UNITLESS
+               
+            
+            
+               AnimalCode
+               AnimalCode
+               Unique individual identification code (ear tag number for each of the animals)
+               string
+               
+                  
+                     
+                        
+                           Unique individual identification code (ear tag number for each of the animals)
+                        
+                     
+                  
+               
+            
+            
+               AnimalSex
+               AnimalSex
+               Sex of bison m-male f-female u-unknown
+               string
+               
+                  
+                     
+                        
+                           Sex of bison m-male f-female u-unknown
+                        
+                     
+                  
+               
+            
+            
+               AnimalWeight
+               AnimalWeight
+               Individual end-of-season weight for each bison
+               
+                  
+                     
+                        pound
+                     
+                     1
+                     
+                        real
+                     
+                  
+               
+               
+                  .
+                  Missing
+               
+               
+                  http://qudt.org/schema/qudt/hasUnit
+                  http://qudt.org/vocab/unit/LB
+               
+            
+            
+               AnimalYOB
+               AnimalYOB
+               Year of animal was born
+               
+                  
+                     
+                        number
+                     
+                     
+                        real
+                     
+                  
+               
+               
+                  blank
+                  Missing or Not Measured
+               
+               
+                  http://qudt.org/schema/qudt/hasUnit
+                  http://qudt.org/vocab/unit/NUM
+               
+            
+         
+         9830
+      
+      
+         CBH013
+         Bison maternal parentage: raw data contains the ear tag number of each calf and that of its mother.
+         
+            CBH013.csv
+            41039
+            98c73235523d3b39491489cb5377973d
+            bebb85a663db661b6effec08a881786e0d3f01ea
+            
+               
+                  1
+                  \r\n
+                  column
+                  
+                     ,
+                     "
+                  
+               
+            
+            
+               
+                  https://pasta.lternet.edu/package/data/eml/knb-lter-knz/78/17/fd47457cbac3fbb7d394a245835dbe80
+               
+            
+         
+         
+            
+               DataCode
+               DataCode
+               Dataset code
+               string
+               
+                  
+                     
+                        
+                           Dataset code
+                        
+                     
+                  
+               
+            
+            
+               RecType
+               RecType
+               dataset record type
+               string
+               
+                  
+                     
+                        
+                           dataset record type
+                        
+                     
+                  
+               
+            
+            
+               RecYear
+               RecYear
+               Year of observation
+               
+                  
+                     
+                        Year (YYYY)
+                     
+                     
+                        real
+                     
+                  
+               
+            
+            
+               CalfTag
+               CalfTag
+               Unique individual identification code (ear tag number for each of calf)
+               string
+               
+                  
+                     
+                        
+                           Unique individual identification code (ear tag number for each of calf)
+                        
+                     
+                  
+               
+            
+            
+               DamTag
+               DamTag
+               Unique individual identification code (ear tag number for each of calf's mother)
+               string
+               
+                  
+                     
+                        
+                           Unique individual identification code (ear tag number for each of calf's mother)
+                        
+                     
+                  
+               
+            
+         
+         1576
+      
+   
+   
+      
+         
+            
+               
+            
+         
+      
+   

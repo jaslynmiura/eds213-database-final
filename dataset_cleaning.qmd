@@ -1,0 +1,75 @@
+---
+title: "dataset_cleaning"
+format: html
+---
+
+```{r, message=FALSE}
+library(tidyverse)
+library(here)
+library(lubridate)
+```
+
+
+```{r, message=FALSE}
+df_1 <- read_csv(here::here("data", "konza_prairie_bison", "CBH011.csv"))
+df_2 <- read_csv(here::here("data", "konza_prairie_bison", "CBH012.csv"))
+df_3 <- read_csv(here::here("data", "konza_prairie_bison", "CBH013.csv"))
+```
+
+```{r}
+head(df_1)
+glimpse(df_1)
+```
+
+```{r}
+df1_cleaned <- df_1 %>% 
+  mutate(RecType = as.integer(RecType)) %>% 
+  mutate(RecYear = as.integer(RecYear)) %>% 
+  mutate(BirthYear = as.integer(BirthYear)) %>% 
+  mutate(NumofFemale = as.integer(NumofFemale)) %>% 
+  mutate(NumofMale = as.integer(NumofMale))
+```
+
+
+```{r}
+head(df_2)
+glimpse(df_2)
+summary(df_1)
+```
+
+```{r}
+df2_cleaned <- df_2 %>% 
+  filter(AnimalWeight != ".") %>% 
+  mutate(RecType = as.integer(RecType)) %>% 
+  mutate(RecYear = as.integer(RecYear)) %>% 
+  mutate(RecMonth = as.integer(RecMonth)) %>% 
+  mutate(RecDay = as.integer(RecDay)) %>% 
+  mutate(AnimalWeight = as.integer(AnimalWeight)) %>% 
+  mutate(AnimalYOB = as.integer(AnimalYOB))
+summary(df2_cleaned)
+
+```
+
+```{r}
+head(df_3)
+glimpse(df_3)
+```
+
+```{r}
+df3_cleaned <- df_3 %>% 
+  mutate(RecType = as.integer(RecType)) %>% 
+  mutate(RecYear = as.integer(RecYear))
+```
+
+```{r}
+summary(df3_cleaned)
+```
+
+
+```{r}
+# write the file
+write_csv(df1_cleaned, "data/df1_cleaned.csv")
+write_csv(df2_cleaned, "data/df2_cleaned.csv")
+write_csv(df3_cleaned, "data/df3_cleaned.csv")
+```
+

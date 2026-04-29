@@ -47,3 +47,6 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# Ignore the marine_mammal data
+data/marine_mammal_survey
