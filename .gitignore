@@ -50,3 +50,6 @@ rsconnect/
 
 # Ignore the marine_mammal data
 data/marine_mammal_survey
+
+# Ignore the .DS_Store file
+.DS_Store
