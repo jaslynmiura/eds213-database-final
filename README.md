@@ -1,5 +1,7 @@
 # Bison Herd Database
 
+!()[images/bison_yellowstone.jpeg]
+
 ### Purpose:
 This repository houses the SQL analysis of Bison Herd Dynamics. Data was first cleaned in an R-script.
 
